@@ -12,6 +12,7 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [
+        "UNITY_EPIC",
         "!EOS_DISABLE"
     ],
     "versionDefines": [],

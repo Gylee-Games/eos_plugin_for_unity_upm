@@ -8,7 +8,10 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
+    "defineConstraints": [
+        "UNITY_EPIC",
+        "!EOS_DISABLE"
+    ],
     "versionDefines": [
         {
             "name": "com.unity.postprocessing",
